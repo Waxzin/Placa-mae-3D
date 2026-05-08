@@ -1,4 +1,4 @@
-# Placa-de-video-3D
+# Placa-Mãe
 Modelo funcional de uma placa mãe em 3d para uso de Datico.
 
 A demonstração consiste em uma criação de um modelo em 3d ultilizando 
